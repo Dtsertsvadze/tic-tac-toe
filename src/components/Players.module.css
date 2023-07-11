@@ -1,0 +1,21 @@
+.players-wrapper {
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  font-size: 1.4rem;
+}
+
+.player {
+  display: flex;
+  justify-content: space-between;
+}
+
+.x-player {
+  color: red;
+
+}
+
+.o-player {
+    color: blue;
+}

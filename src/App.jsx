@@ -2,7 +2,7 @@ import "./App.css";
 import Players from "./components/Players";
 import Board from "./components/Board";
 import { useState } from "react";
-import BackDrop from "./components/backDrop";
+import BackDrop from "./components/BackDrop";
 
 const WINNING_VARIATIONS = [
   [0, 1, 2],

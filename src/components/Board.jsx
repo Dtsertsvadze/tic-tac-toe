@@ -1,5 +1,5 @@
 import React from "react";
-import "./board.css";
+import "./Board.css";
 import Box from "./Box";
 
 const Board = (props) => {

@@ -1,5 +1,5 @@
 import React from "react";
-import classes from "./players.module.css";
+import classes from "./Players.module.css";
 
 const Players = (props) => {
   return (
